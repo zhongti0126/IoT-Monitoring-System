@@ -14,4 +14,4 @@ This project is a simple IoT-based monitoring system that collects sensor data a
 - HTML
 
 ## 🎯 Goal
-This project is designed to practice IoT system architecture and backend development.
+This project is designed to practice IoT system architecture and backend development
